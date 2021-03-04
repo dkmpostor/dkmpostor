@@ -13,10 +13,6 @@
 - 🥅 My Goals is Expert in C++ and C# 🤣
 - ⚡ I’m so interested to learning Programming 🤣
 
-### Spotify Playing 🎧
-
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="dkmpostor Spotify Playing" width="350" />
-
 <details>
   <summary><b>Connect with me</b></summary>
   <p align="center">
