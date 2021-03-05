@@ -5,10 +5,10 @@
 
 ## Hi there , My name is Andhika D. Maulana 👋
 
-- 🔭 I’m a C++ Expert 
+- 🔭 I’m 20 years old 
 - 🌱 I’m so Interested to learning NodeJS 🤣
 - 👯 I’m looking to collaborate on your Open Source Project 🤣
-- 🥅 My Goals is Expert in all programming leanguage haha 🤣
+- 🥅 My Goals is Expert in all programming language haha 🤣
 - ⚡ I love playing a video game and watching anime 🤣
 
 <details>
