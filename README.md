@@ -3,15 +3,15 @@
   <img src="https://profile-counter.glitch.me/dkmpostor/count.svg" />
 </p>
 
-<img align="center" alt="N1ght420's github stats" src="https://github-readme-stats.vercel.app/api?username=dkmpostor&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
+<img align="center" alt="dkmpostor's github stats" src="https://github-readme-stats.vercel.app/api?username=dkmpostor&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
 
 ## Hi there , My name is Andhika D. Maulana 👋
 
-- 🔭 I just start learning Programming 🤣
-- 🌱 I’m currently learning C++ , C# and NodeJS 🤣
+- 🔭 I’m a C++ Expert 
+- 🌱 I’m so Interested to learning NodeJS 🤣
 - 👯 I’m looking to collaborate on your Open Source Project 🤣
-- 🥅 My Goals is Expert in C++ and C# 🤣
-- ⚡ I’m so interested to learning Programming 🤣
+- 🥅 My Goals is Expert in all programming leanguage haha 🤣
+- ⚡ I love playing a video game and watching anime 🤣
 
 <details>
   <summary><b>Connect with me</b></summary>
