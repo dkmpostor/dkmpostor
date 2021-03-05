@@ -3,8 +3,6 @@
   <img src="https://profile-counter.glitch.me/dkmpostor/count.svg" />
 </p>
 
-<img align="center" alt="dkmpostor's github stats" src="https://github-readme-stats.vercel.app/api?username=dkmpostor&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
-
 ## Hi there , My name is Andhika D. Maulana 👋
 
 - 🔭 I’m a C++ Expert 
