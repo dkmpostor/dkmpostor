@@ -5,7 +5,7 @@
 
 ## Hi there , My name is Andhika D. Maulana 👋
 
-- 🔭 I’m 20 years old 
+- 🔭 I’m 21 years old 
 - 🌱 I’m so Interested to learning NodeJS 🤣
 - ⚡ I love playing a video game and watching anime 🤣
 
